@@ -35,7 +35,7 @@ namespace TicketManagementSystem.Views
         private void TestConnectionButton_Click(object sender, EventArgs e)
         {
             // 🔧 Connection string: แก้ตามเครื่องคุณ
-            string connectionString = "Data Source=10.31.2.75;Initial Catalog=THSQLDATA;User ID=ThUniTechMESUser;Password=wtazMLw60E#L";
+            string connectionString = "";
 
             try
             {
